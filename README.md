@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Ahsan Ali
 
-<!--
-**ahsan-ali-dev03/ahsan-ali-dev03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Aspiring Developer  
+📍 Hyderabad, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning Java & SQL  
+- 💻 Interested in Software Development  
+- 🎯 Goal: Become a Professional Developer  
+
+---
+
+## 🛠️ Skills
+- Java ☕  
+- SQL 🗄️  
+- C++ 💻  
+- HTML & CSS 🌐  
+
+---
+
+## 📂 Projects
+- Fake News Detection System 📰  
+- Todo App (Java) ✅  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/ahsanali  
+- GitHub: https://github.com/ahsan-ali-dev03  
+
+---
+
+⭐ Keep learning, keep growing!
