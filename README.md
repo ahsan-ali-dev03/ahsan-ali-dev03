@@ -23,7 +23,7 @@
 ## 📂 Projects
 - Fake News Detection System 📰  
 - Todo App (Java) ✅  
-
+- Student Management System 🎓
 ---
 
 ## 📫 Connect with me
